@@ -1,0 +1,3774 @@
+{
+    "lens_id": "",
+    "document_id": "AsDoDgA7bE7dHQyeNd1Y",
+    "original_document_id": "AsDoDgA7bE7dHQyeNd1Y",
+    "version": "29",
+    "lastChanged": "1673129194945",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "36",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "36",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Echopark"
+                    ],
+                    [
+                        "Echopark",
+                        "Diff"
+                    ],
+                    [
+                        "Echopark",
+                        "Specular"
+                    ],
+                    [
+                        "simple-holiday"
+                    ],
+                    [
+                        "simple-holiday",
+                        "Materials"
+                    ],
+                    [
+                        "simple-holiday",
+                        "Materials",
+                        "Gold Sheen"
+                    ],
+                    [
+                        "simple-holiday",
+                        "Materials",
+                        "Light Brown"
+                    ],
+                    [
+                        "simple-holiday",
+                        "Materials",
+                        "Red"
+                    ],
+                    [
+                        "simple-holiday",
+                        "Materials",
+                        "Tree"
+                    ],
+                    [
+                        "simple-holiday",
+                        "Materials",
+                        "White"
+                    ],
+                    [
+                        "simple-holiday",
+                        "Meshes"
+                    ],
+                    [
+                        "simple-holiday",
+                        "Meshes",
+                        "Bauble"
+                    ],
+                    [
+                        "simple-holiday",
+                        "Meshes",
+                        "Bauble 2"
+                    ],
+                    [
+                        "simple-holiday",
+                        "Meshes",
+                        "Candy Cane"
+                    ],
+                    [
+                        "simple-holiday",
+                        "Meshes",
+                        "Candy Cane 2"
+                    ],
+                    [
+                        "simple-holiday",
+                        "Meshes",
+                        "Gift Box"
+                    ],
+                    [
+                        "simple-holiday",
+                        "Meshes",
+                        "Gift Box 2"
+                    ],
+                    [
+                        "simple-holiday",
+                        "Meshes",
+                        "Star"
+                    ],
+                    [
+                        "simple-holiday",
+                        "Meshes",
+                        "Tree"
+                    ],
+                    [
+                        "simple-holiday",
+                        "Meshes",
+                        "Tree 2"
+                    ],
+                    [
+                        "simple-holiday",
+                        "simple-holiday"
+                    ],
+                    [
+                        "simple-holiday 2"
+                    ],
+                    [
+                        "simple-holiday 2",
+                        "Materials"
+                    ],
+                    [
+                        "simple-holiday 2",
+                        "Materials",
+                        "Gold Sheen"
+                    ],
+                    [
+                        "simple-holiday 2",
+                        "Materials",
+                        "Light Brown"
+                    ],
+                    [
+                        "simple-holiday 2",
+                        "Materials",
+                        "Red"
+                    ],
+                    [
+                        "simple-holiday 2",
+                        "Materials",
+                        "Tree"
+                    ],
+                    [
+                        "simple-holiday 2",
+                        "Materials",
+                        "White"
+                    ],
+                    [
+                        "simple-holiday 2",
+                        "Meshes"
+                    ],
+                    [
+                        "simple-holiday 2",
+                        "Meshes",
+                        "Bauble"
+                    ],
+                    [
+                        "simple-holiday 2",
+                        "Meshes",
+                        "Bauble 2"
+                    ],
+                    [
+                        "simple-holiday 2",
+                        "Meshes",
+                        "Candy Cane"
+                    ],
+                    [
+                        "simple-holiday 2",
+                        "Meshes",
+                        "Candy Cane 2"
+                    ],
+                    [
+                        "simple-holiday 2",
+                        "Meshes",
+                        "Gift Box"
+                    ],
+                    [
+                        "simple-holiday 2",
+                        "Meshes",
+                        "Gift Box 2"
+                    ],
+                    [
+                        "simple-holiday 2",
+                        "Meshes",
+                        "Star"
+                    ],
+                    [
+                        "simple-holiday 2",
+                        "Meshes",
+                        "Tree"
+                    ],
+                    [
+                        "simple-holiday 2",
+                        "Meshes",
+                        "Tree 2"
+                    ],
+                    [
+                        "simple-holiday 2",
+                        "simple-holiday"
+                    ],
+                    [
+                        "white"
+                    ],
+                    [
+                        "white 2"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ],
+            "selectionSetList": ""
+        },
+        "MetaInfoUIComponent": {
+            "hints": "",
+            "lens": "Untitled",
+            "applicability": "3",
+            "lens_descriptors": "",
+            "Spectacles2021UseAllowed": "false"
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "front_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "ObjectTracking3DUIComponent": {
+            "foldedOwnerSceneObjects": ""
+        },
+        "MapUiComponent": {
+            "mapPinPoints": {
+                "1649082416475574:107527": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082427199232:110271": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082439729750:113424": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082450030542:116090": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082460630816:118829": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082471244376:121575": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082481781800:124296": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082491465116:126851": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082504700263:130155": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649083114749264:286916": {
+                    "longitude": "-0.13116145133972168",
+                    "latitude": "51.512794494628906",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1649083114749061:286915",
+                    "locationAsset": "1649083114749736:286917"
+                },
+                "1649094984677630:32157": {
+                    "longitude": "-0.13121148943901062",
+                    "latitude": "51.512771606445312",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1649094984677441:32156",
+                    "locationAsset": "1649094984678151:32158"
+                },
+                "1649772212970366:35230": {
+                    "longitude": "-0.13149562478065491",
+                    "latitude": "51.513656616210938",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1649772212970143:35229",
+                    "locationAsset": "1649772212970867:35231"
+                },
+                "1649778275335615:644381": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649778655920914:710757": {
+                    "longitude": "-0.13150887191295624",
+                    "latitude": "51.513614654541016",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Frith Street [PLACE_CONTENT_HERE]",
+                    "pinUid": "1649778655920668:710756",
+                    "locationAsset": "1649778655921339:710758"
+                },
+                "1649865066556768:58106": {
+                    "longitude": "-0.13167314231395721",
+                    "latitude": "51.513031005859375",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Old Compton Street [PLACE_CONTENT_HERE]",
+                    "pinUid": "1649865066556471:58105",
+                    "locationAsset": "1649865066557449:58107"
+                },
+                "1649964505575077:712535": {
+                    "longitude": "-0.13096083700656891",
+                    "latitude": "51.512859344482422",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Romilly Street [PLACE_CONTENT_HERE]",
+                    "pinUid": "1649964505574756:712534",
+                    "locationAsset": "1649964505575881:712536"
+                },
+                "1651740821321039:38503": {
+                    "longitude": "-0.13170607388019562",
+                    "latitude": "51.512580871582031",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Dean Street And Romily",
+                    "pinUid": "1651740821320812:38502",
+                    "locationAsset": "1651740821321523:38504"
+                },
+                "1651744904534351:1306090": {
+                    "longitude": "-0.13159231841564178",
+                    "latitude": "51.512386322021484",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1651744904534135:1306089",
+                    "locationAsset": "1651744904535003:1306091"
+                },
+                "1652347539892906:46549": {
+                    "longitude": "-0.085821650922298431",
+                    "latitude": "51.528266906738281",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1652347539892395:46548",
+                    "locationAsset": "1652347539893864:46550"
+                },
+                "1653297295919937:563039": {
+                    "longitude": "-0.12685032188892365",
+                    "latitude": "51.507827758789062",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1653297295919457:563038",
+                    "locationAsset": "1653297295921503:563046"
+                },
+                "1653297493220826:286071": {
+                    "longitude": "-0.12681996822357178",
+                    "latitude": "51.515045166015625",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1653297493220620:286070",
+                    "locationAsset": "1653297493221647:286072"
+                },
+                "1653297815414767:678204": {
+                    "longitude": "-0.12326952069997787",
+                    "latitude": "51.509716033935547",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1653297815414537:678203",
+                    "locationAsset": "1653297815415381:678205"
+                }
+            },
+            "mapCurrentPosition": {
+                "x": "-0.131214619",
+                "y": "51.5132256"
+            }
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "VFX::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1588296316843646:534374",
+                    "name": "Files\/File3.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1588296316857901:534385",
+                    "name": "Files\/File5.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "12",
+                    "uid": "8675309:9035768",
+                    "name": "Physics Root World Settings Asset",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1673129015240109:72298",
+                    "name": "Files\/File8.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1673129015259802:72308",
+                    "name": "Files\/File9.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1673129015278157:72316",
+                    "name": "Files\/File10.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1673129015296624:72326",
+                    "name": "Files\/File11.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1673129015315249:72336",
+                    "name": "Files\/File12.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1673129015334012:72344",
+                    "name": "Files\/File13.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1673129015352307:72354",
+                    "name": "Files\/File14.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1673129015370722:72362",
+                    "name": "Files\/File15.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1673129015389565:72372",
+                    "name": "Files\/File16.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1673129015392541:72379",
+                    "name": "Files\/File17",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "23",
+                    "uid": "1673129015643223:72429",
+                    "name": "Files\/File19.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "24",
+                    "uid": "1673129015698755:72436",
+                    "name": "Files\/File22",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "25",
+                    "uid": "1673129015910865:72485",
+                    "name": "Files\/File24",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1673129016107749:72532",
+                    "name": "Files\/File26",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "27",
+                    "uid": "1673129016311280:72579",
+                    "name": "Files\/File28",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "28",
+                    "uid": "1673129016518826:72705",
+                    "name": "simple-holiday",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "29",
+                    "uid": "1673129035173110:75771",
+                    "name": "Files\/File42.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "30",
+                    "uid": "1673129035192457:75781",
+                    "name": "Files\/File43.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "31",
+                    "uid": "1673129035211749:75789",
+                    "name": "Files\/File44.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "32",
+                    "uid": "1673129035231547:75799",
+                    "name": "Files\/File45.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "33",
+                    "uid": "1673129035250222:75809",
+                    "name": "Files\/File46.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "34",
+                    "uid": "1673129035268907:75817",
+                    "name": "Files\/File47.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "35",
+                    "uid": "1673129035287097:75827",
+                    "name": "Files\/File48.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "36",
+                    "uid": "1673129035305269:75835",
+                    "name": "Files\/File49.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "37",
+                    "uid": "1673129035323728:75845",
+                    "name": "Files\/File50.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "38",
+                    "uid": "1673129035327440:75852",
+                    "name": "Files\/File51",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "39",
+                    "uid": "1673129035520094:75898",
+                    "name": "Files\/File53.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "40",
+                    "uid": "1673129035570473:75905",
+                    "name": "Files\/File56",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "41",
+                    "uid": "1673129035782996:75954",
+                    "name": "Files\/File58",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "42",
+                    "uid": "1673129035995785:76001",
+                    "name": "Files\/File60",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "43",
+                    "uid": "1673129036196142:76048",
+                    "name": "Files\/File62",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "44",
+                    "uid": "1673129036403546:76176",
+                    "name": "simple-holiday",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1673129173612366:86694",
+                "4": "1673129176919128:87182"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "3",
+                    "v": "Files\/File3.jpeg"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.jpeg"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.jpeg"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.jpeg"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.hdr"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.mesh"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.mesh"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10.mesh"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.mesh"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12.mesh"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13.mesh"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14.mesh"
+                },
+                {
+                    "k": "15",
+                    "v": "Files\/File15.mesh"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16.mesh"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.lsmat"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19.pvr"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20.png"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21.png"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23.lsmat"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24"
+                },
+                {
+                    "k": "25",
+                    "v": "Files\/File25.lsmat"
+                },
+                {
+                    "k": "26",
+                    "v": "Files\/File26"
+                },
+                {
+                    "k": "27",
+                    "v": "Files\/File27.lsmat"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29.lsmat"
+                },
+                {
+                    "k": "30",
+                    "v": "Files\/File30.oprfb"
+                },
+                {
+                    "k": "31",
+                    "v": "Files\/File31.fbx"
+                },
+                {
+                    "k": "32",
+                    "v": "Files\/File32.mesh"
+                },
+                {
+                    "k": "33",
+                    "v": "Files\/File33.mesh"
+                },
+                {
+                    "k": "34",
+                    "v": "Files\/File34.mesh"
+                },
+                {
+                    "k": "35",
+                    "v": "Files\/File35.mesh"
+                },
+                {
+                    "k": "36",
+                    "v": "Files\/File36.mesh"
+                },
+                {
+                    "k": "37",
+                    "v": "Files\/File37.mesh"
+                },
+                {
+                    "k": "38",
+                    "v": "Files\/File38.mesh"
+                },
+                {
+                    "k": "39",
+                    "v": "Files\/File39.mesh"
+                },
+                {
+                    "k": "40",
+                    "v": "Files\/File40.mesh"
+                },
+                {
+                    "k": "41",
+                    "v": "Files\/File41.pvr"
+                },
+                {
+                    "k": "42",
+                    "v": "Files\/File42.mesh"
+                },
+                {
+                    "k": "43",
+                    "v": "Files\/File43.mesh"
+                },
+                {
+                    "k": "44",
+                    "v": "Files\/File44.mesh"
+                },
+                {
+                    "k": "45",
+                    "v": "Files\/File45.mesh"
+                },
+                {
+                    "k": "46",
+                    "v": "Files\/File46.mesh"
+                },
+                {
+                    "k": "47",
+                    "v": "Files\/File47.mesh"
+                },
+                {
+                    "k": "48",
+                    "v": "Files\/File48.mesh"
+                },
+                {
+                    "k": "49",
+                    "v": "Files\/File49.mesh"
+                },
+                {
+                    "k": "50",
+                    "v": "Files\/File50.mesh"
+                },
+                {
+                    "k": "51",
+                    "v": "Files\/File51"
+                },
+                {
+                    "k": "52",
+                    "v": "Files\/File52.lsmat"
+                },
+                {
+                    "k": "53",
+                    "v": "Files\/File53.pvr"
+                },
+                {
+                    "k": "54",
+                    "v": "Files\/File54.png"
+                },
+                {
+                    "k": "55",
+                    "v": "Files\/File55.png"
+                },
+                {
+                    "k": "56",
+                    "v": "Files\/File56"
+                },
+                {
+                    "k": "57",
+                    "v": "Files\/File57.lsmat"
+                },
+                {
+                    "k": "58",
+                    "v": "Files\/File58"
+                },
+                {
+                    "k": "59",
+                    "v": "Files\/File59.lsmat"
+                },
+                {
+                    "k": "60",
+                    "v": "Files\/File60"
+                },
+                {
+                    "k": "61",
+                    "v": "Files\/File61.lsmat"
+                },
+                {
+                    "k": "62",
+                    "v": "Files\/File62"
+                },
+                {
+                    "k": "63",
+                    "v": "Files\/File63.lsmat"
+                },
+                {
+                    "k": "64",
+                    "v": "Files\/File64.oprfb"
+                },
+                {
+                    "k": "65",
+                    "v": "Files\/File65.fbx"
+                },
+                {
+                    "k": "66",
+                    "v": "Files\/File66.mesh"
+                },
+                {
+                    "k": "67",
+                    "v": "Files\/File67.mesh"
+                },
+                {
+                    "k": "68",
+                    "v": "Files\/File68.mesh"
+                },
+                {
+                    "k": "69",
+                    "v": "Files\/File69.mesh"
+                },
+                {
+                    "k": "70",
+                    "v": "Files\/File70.mesh"
+                },
+                {
+                    "k": "71",
+                    "v": "Files\/File71.mesh"
+                },
+                {
+                    "k": "72",
+                    "v": "Files\/File72.mesh"
+                },
+                {
+                    "k": "73",
+                    "v": "Files\/File73.mesh"
+                },
+                {
+                    "k": "74",
+                    "v": "Files\/File74.mesh"
+                },
+                {
+                    "k": "75",
+                    "v": "Files\/File75.pvr"
+                },
+                {
+                    "k": "76",
+                    "v": "Files\/File76.oprfb"
+                },
+                {
+                    "k": "77",
+                    "v": "Files\/File77.oprfb"
+                }
+            ]
+        },
+        "RemoteApi::ModelManager": {
+            "api_specs": ""
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene",
+            "hitTestDisabledObjectsList": {
+                "type_name": "array"
+            }
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "967",
+                        "v": "Echopark.hdr"
+                    },
+                    {
+                        "k": "37315",
+                        "v": "white.png"
+                    },
+                    {
+                        "k": "37316",
+                        "v": "simple-holiday.fbx"
+                    },
+                    {
+                        "k": "37317",
+                        "v": "..\/AdditionalFiles\/simple-holiday\/Materials"
+                    },
+                    {
+                        "k": "37318",
+                        "v": "..\/AdditionalFiles\/simple-holiday\/Materials\/Tree.lsmat"
+                    },
+                    {
+                        "k": "37319",
+                        "v": "..\/AdditionalFiles\/simple-holiday\/Materials\/Light Brown.lsmat"
+                    },
+                    {
+                        "k": "37320",
+                        "v": "..\/AdditionalFiles\/simple-holiday\/Materials\/Red.lsmat"
+                    },
+                    {
+                        "k": "37321",
+                        "v": "..\/AdditionalFiles\/simple-holiday\/Materials\/Gold Sheen.lsmat"
+                    },
+                    {
+                        "k": "37322",
+                        "v": "..\/AdditionalFiles\/simple-holiday\/Materials\/White.lsmat"
+                    },
+                    {
+                        "k": "37323",
+                        "v": "white 2.png"
+                    },
+                    {
+                        "k": "37324",
+                        "v": "simple-holiday 2.fbx"
+                    },
+                    {
+                        "k": "37325",
+                        "v": "..\/AdditionalFiles\/simple-holiday 2\/Materials"
+                    },
+                    {
+                        "k": "37326",
+                        "v": "..\/AdditionalFiles\/simple-holiday 2\/Materials\/Tree.lsmat"
+                    },
+                    {
+                        "k": "37327",
+                        "v": "..\/AdditionalFiles\/simple-holiday 2\/Materials\/Light Brown.lsmat"
+                    },
+                    {
+                        "k": "37328",
+                        "v": "..\/AdditionalFiles\/simple-holiday 2\/Materials\/Red.lsmat"
+                    },
+                    {
+                        "k": "37329",
+                        "v": "..\/AdditionalFiles\/simple-holiday 2\/Materials\/Gold Sheen.lsmat"
+                    },
+                    {
+                        "k": "37330",
+                        "v": "..\/AdditionalFiles\/simple-holiday 2\/Materials\/White.lsmat"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "37315",
+                        "v": "5167f791115e0d7d62e5103740694a36"
+                    },
+                    {
+                        "k": "37316",
+                        "v": "6ed85574a665b169b5bcaaad4113c7c8"
+                    },
+                    {
+                        "k": "37318",
+                        "v": "28f3942fd954c7c48e2f46e3eaad11d4"
+                    },
+                    {
+                        "k": "37319",
+                        "v": "68caacc7a96a942a7a8eaa81844f7bec"
+                    },
+                    {
+                        "k": "37320",
+                        "v": "af0898ea6913bf97a20085f75e1f710c"
+                    },
+                    {
+                        "k": "37321",
+                        "v": "abde2f1191122457079c87a5b3344b41"
+                    },
+                    {
+                        "k": "37322",
+                        "v": "0893d2f66fb89cb567da64670de00535"
+                    },
+                    {
+                        "k": "37323",
+                        "v": "5167f791115e0d7d62e5103740694a36"
+                    },
+                    {
+                        "k": "37324",
+                        "v": "6ed85574a665b169b5bcaaad4113c7c8"
+                    },
+                    {
+                        "k": "37326",
+                        "v": "d39b682de033a1cc3a6abb9c40d911f3"
+                    },
+                    {
+                        "k": "37327",
+                        "v": "cc44c35bf0f674602e05fc1ae41ee1b2"
+                    },
+                    {
+                        "k": "37328",
+                        "v": "ede6588ba32063ac6ff29e2e96e884a0"
+                    },
+                    {
+                        "k": "37329",
+                        "v": "d972b0bcd86c6c5ee74ac87e9fe69ca0"
+                    },
+                    {
+                        "k": "37330",
+                        "v": "789860c778429a67c91da58e2c845324"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2023-01-07T14:03:56",
+                        "name": "Public",
+                        "hash": "9a4996206d8db3f89a86c417891820e5",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2023-01-07T14:03:33",
+                                "name": "simple-holiday 2.fbx",
+                                "hash": "6ed85574a665b169b5bcaaad4113c7c8",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2023-01-07T14:03:33",
+                                "name": "simple-holiday.fbx",
+                                "hash": "6ed85574a665b169b5bcaaad4113c7c8",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-12-19T16:33:09",
+                                "name": "Echopark.hdr",
+                                "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-12-19T16:33:09",
+                                "name": "white.png",
+                                "hash": "5167f791115e0d7d62e5103740694a36",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-12-19T16:33:09",
+                                "name": "white 2.png",
+                                "hash": "5167f791115e0d7d62e5103740694a36",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-12-19T16:33:09",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "hidden": "false",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Physics Root World Settings",
+                        "type": "36",
+                        "subtype": "1",
+                        "resourceId": "12",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "8675309:9035768",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Echopark",
+                        "type": "9",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "7",
+                        "originalId": "18446744073709551615",
+                        "publicId": "967",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Diff",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "10",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1588296316843646:534374",
+                                "fileId": "3",
+                                "originalId": "4",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Specular",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "11",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1588296316857901:534385",
+                                "fileId": "5",
+                                "originalId": "6",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "white",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "23",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1673129015643223:72429",
+                        "fileId": "19",
+                        "originalId": "20",
+                        "publicId": "37315",
+                        "source": "\/Volumes\/Lens Studio\/Lens Studio.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/materials\/textures\/white.png",
+                        "additional": {
+                            "originHash": "5167f791115e0d7d62e5103740694a36"
+                        }
+                    },
+                    {
+                        "name": "simple-holiday",
+                        "type": "18",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "31",
+                        "originalId": "18446744073709551615",
+                        "publicId": "37316",
+                        "source": "\/Users\/brayton\/Library\/Application Support\/Snap\/Lens Studio\/cached_filesAssetLibrary\/qX4iwMBvr0goE-z#63b9ec35\/simple-holiday.fbx",
+                        "additional": {
+                            "materialMapping": [
+                                {
+                                    "k": "Gold Sheen",
+                                    "v": "1673129016107749:72532"
+                                },
+                                {
+                                    "k": "Light Brown",
+                                    "v": "1673129015698755:72436"
+                                },
+                                {
+                                    "k": "Red",
+                                    "v": "1673129015910865:72485"
+                                },
+                                {
+                                    "k": "Tree",
+                                    "v": "1673129015392541:72379"
+                                },
+                                {
+                                    "k": "White",
+                                    "v": "1673129016311280:72579"
+                                }
+                            ],
+                            "ImportSource": "\/Users\/brayton\/Library\/Application Support\/Snap\/Lens Studio\/cached_filesAssetLibrary\/qX4iwMBvr0goE-z#63b9ec35\/simple-holiday.fbx",
+                            "ImportParams": {
+                                "importVertexColor": "true",
+                                "animationCurveOptimization": "true",
+                                "regenerateNormalsForSkinned": "true",
+                                "generatePivots": "true",
+                                "importVertexAnimation": "true",
+                                "importTangents": "true",
+                                "recalculateTangents": "false",
+                                "importBlendShapeAnimation": "true"
+                            }
+                        },
+                        "resources": [
+                            {
+                                "name": "Meshes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Tree",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "13",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1673129015240109:72298",
+                                        "fileId": "8",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/Users\/brayton\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioyWsmHsSYykxB\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "info": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "canBeDisabled": "false"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "tangent",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "texture0",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    }
+                                                ],
+                                                "hasBlendShapes": "false"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "Tree 2",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "14",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1673129015259802:72308",
+                                        "fileId": "9",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/Users\/brayton\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioyWsmHsSYykxB\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "info": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "canBeDisabled": "false"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "tangent",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "texture0",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    }
+                                                ],
+                                                "hasBlendShapes": "false"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "Gift Box",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "15",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1673129015278157:72316",
+                                        "fileId": "10",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/Users\/brayton\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioyWsmHsSYykxB\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "info": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "canBeDisabled": "false"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "tangent",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "texture0",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    }
+                                                ],
+                                                "hasBlendShapes": "false"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "Gift Box 2",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "16",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1673129015296624:72326",
+                                        "fileId": "11",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/Users\/brayton\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioyWsmHsSYykxB\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "info": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "canBeDisabled": "false"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "tangent",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "texture0",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    }
+                                                ],
+                                                "hasBlendShapes": "false"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "Bauble",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "17",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1673129015315249:72336",
+                                        "fileId": "12",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/Users\/brayton\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioyWsmHsSYykxB\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "info": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "canBeDisabled": "false"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "tangent",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "texture0",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    }
+                                                ],
+                                                "hasBlendShapes": "false"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "Bauble 2",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "18",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1673129015334012:72344",
+                                        "fileId": "13",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/Users\/brayton\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioyWsmHsSYykxB\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "info": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "canBeDisabled": "false"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "tangent",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "texture0",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    }
+                                                ],
+                                                "hasBlendShapes": "false"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "Star",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "19",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1673129015352307:72354",
+                                        "fileId": "14",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/Users\/brayton\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioyWsmHsSYykxB\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "info": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "canBeDisabled": "false"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    }
+                                                ],
+                                                "hasBlendShapes": "false"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "Candy Cane",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "20",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1673129015370722:72362",
+                                        "fileId": "15",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/Users\/brayton\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioyWsmHsSYykxB\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "info": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "canBeDisabled": "false"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "tangent",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "color",
+                                                        "format": "3",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "texture0",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    }
+                                                ],
+                                                "hasBlendShapes": "false"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "Candy Cane 2",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "21",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1673129015389565:72372",
+                                        "fileId": "16",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/Users\/brayton\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioyWsmHsSYykxB\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "info": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "canBeDisabled": "false"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "tangent",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "color",
+                                                        "format": "3",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "texture0",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    }
+                                                ],
+                                                "hasBlendShapes": "false"
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "37317",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Tree",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "22",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1673129015392541:72379",
+                                        "fileId": "17",
+                                        "originalId": "18",
+                                        "publicId": "37318",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Light Brown",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "24",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1673129015698755:72436",
+                                        "fileId": "22",
+                                        "originalId": "23",
+                                        "publicId": "37319",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Red",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "25",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1673129015910865:72485",
+                                        "fileId": "24",
+                                        "originalId": "25",
+                                        "publicId": "37320",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Gold Sheen",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "26",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1673129016107749:72532",
+                                        "fileId": "26",
+                                        "originalId": "27",
+                                        "publicId": "37321",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "White",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "27",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1673129016311280:72579",
+                                        "fileId": "28",
+                                        "originalId": "29",
+                                        "publicId": "37322",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "simple-holiday",
+                                "type": "12",
+                                "subtype": "0",
+                                "resourceId": "28",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1673129016518826:72705",
+                                "fileId": "30",
+                                "originalId": "76",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "white 2",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "39",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1673129035520094:75898",
+                        "fileId": "53",
+                        "originalId": "54",
+                        "publicId": "37323",
+                        "source": "\/Volumes\/Lens Studio\/Lens Studio.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/materials\/textures\/white.png",
+                        "additional": {
+                            "originHash": "5167f791115e0d7d62e5103740694a36"
+                        }
+                    },
+                    {
+                        "name": "simple-holiday 2",
+                        "type": "18",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "65",
+                        "originalId": "18446744073709551615",
+                        "publicId": "37324",
+                        "source": "\/Users\/brayton\/Library\/Application Support\/Snap\/Lens Studio\/cached_filesAssetLibrary\/qX4iwMBvr0goE-z#63b9ec35\/simple-holiday.fbx",
+                        "additional": {
+                            "materialMapping": [
+                                {
+                                    "k": "Gold Sheen",
+                                    "v": "1673129035995785:76001"
+                                },
+                                {
+                                    "k": "Light Brown",
+                                    "v": "1673129035570473:75905"
+                                },
+                                {
+                                    "k": "Red",
+                                    "v": "1673129035782996:75954"
+                                },
+                                {
+                                    "k": "Tree",
+                                    "v": "1673129035327440:75852"
+                                },
+                                {
+                                    "k": "White",
+                                    "v": "1673129036196142:76048"
+                                }
+                            ],
+                            "ImportSource": "\/Users\/brayton\/Library\/Application Support\/Snap\/Lens Studio\/cached_filesAssetLibrary\/qX4iwMBvr0goE-z#63b9ec35\/simple-holiday.fbx",
+                            "ImportParams": {
+                                "importVertexColor": "true",
+                                "animationCurveOptimization": "true",
+                                "regenerateNormalsForSkinned": "true",
+                                "generatePivots": "true",
+                                "importVertexAnimation": "true",
+                                "importTangents": "true",
+                                "recalculateTangents": "false",
+                                "importBlendShapeAnimation": "true"
+                            }
+                        },
+                        "resources": [
+                            {
+                                "name": "Meshes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Tree",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "29",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1673129035173110:75771",
+                                        "fileId": "42",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/Users\/brayton\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioyWsmHsSYykxB\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "info": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "canBeDisabled": "false"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "tangent",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "texture0",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    }
+                                                ],
+                                                "hasBlendShapes": "false"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "Tree 2",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "30",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1673129035192457:75781",
+                                        "fileId": "43",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/Users\/brayton\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioyWsmHsSYykxB\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "info": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "canBeDisabled": "false"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "tangent",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "texture0",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    }
+                                                ],
+                                                "hasBlendShapes": "false"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "Gift Box",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "31",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1673129035211749:75789",
+                                        "fileId": "44",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/Users\/brayton\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioyWsmHsSYykxB\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "info": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "canBeDisabled": "false"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "tangent",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "texture0",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    }
+                                                ],
+                                                "hasBlendShapes": "false"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "Gift Box 2",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "32",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1673129035231547:75799",
+                                        "fileId": "45",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/Users\/brayton\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioyWsmHsSYykxB\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "info": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "canBeDisabled": "false"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "tangent",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "texture0",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    }
+                                                ],
+                                                "hasBlendShapes": "false"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "Bauble",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "33",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1673129035250222:75809",
+                                        "fileId": "46",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/Users\/brayton\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioyWsmHsSYykxB\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "info": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "canBeDisabled": "false"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "tangent",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "texture0",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    }
+                                                ],
+                                                "hasBlendShapes": "false"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "Bauble 2",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "34",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1673129035268907:75817",
+                                        "fileId": "47",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/Users\/brayton\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioyWsmHsSYykxB\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "info": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "canBeDisabled": "false"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "tangent",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "texture0",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    }
+                                                ],
+                                                "hasBlendShapes": "false"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "Star",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "35",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1673129035287097:75827",
+                                        "fileId": "48",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/Users\/brayton\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioyWsmHsSYykxB\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "info": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "canBeDisabled": "false"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    }
+                                                ],
+                                                "hasBlendShapes": "false"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "Candy Cane",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "36",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1673129035305269:75835",
+                                        "fileId": "49",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/Users\/brayton\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioyWsmHsSYykxB\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "info": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "canBeDisabled": "false"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "tangent",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "color",
+                                                        "format": "3",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "texture0",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    }
+                                                ],
+                                                "hasBlendShapes": "false"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "name": "Candy Cane 2",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "37",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1673129035323728:75845",
+                                        "fileId": "50",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/Users\/brayton\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioyWsmHsSYykxB\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": {
+                                            "info": {
+                                                "vertexAttribs": [
+                                                    {
+                                                        "semantic": "position",
+                                                        "format": "9",
+                                                        "canBeDisabled": "false"
+                                                    },
+                                                    {
+                                                        "semantic": "normal",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "tangent",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "color",
+                                                        "format": "3",
+                                                        "canBeDisabled": "true"
+                                                    },
+                                                    {
+                                                        "semantic": "texture0",
+                                                        "format": "9",
+                                                        "canBeDisabled": "true"
+                                                    }
+                                                ],
+                                                "hasBlendShapes": "false"
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "37325",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Tree",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "38",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1673129035327440:75852",
+                                        "fileId": "51",
+                                        "originalId": "52",
+                                        "publicId": "37326",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Light Brown",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "40",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1673129035570473:75905",
+                                        "fileId": "56",
+                                        "originalId": "57",
+                                        "publicId": "37327",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Red",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "41",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1673129035782996:75954",
+                                        "fileId": "58",
+                                        "originalId": "59",
+                                        "publicId": "37328",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Gold Sheen",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "42",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1673129035995785:76001",
+                                        "fileId": "60",
+                                        "originalId": "61",
+                                        "publicId": "37329",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "White",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "43",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1673129036196142:76048",
+                                        "fileId": "62",
+                                        "originalId": "63",
+                                        "publicId": "37330",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "simple-holiday",
+                                "type": "12",
+                                "subtype": "0",
+                                "resourceId": "44",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1673129036403546:76176",
+                                "fileId": "64",
+                                "originalId": "77",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1673129176919128:87182"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": "",
+            "32": "",
+            "33": "",
+            "34": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": [
+                {
+                    "k": "1673129016518826:72705",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1673129016510131:72626"
+                        },
+                        {
+                            "k": [
+                                "Bauble"
+                            ],
+                            "v": "1673129016514706:72660"
+                        },
+                        {
+                            "k": [
+                                "Bauble",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1673129016514913:72662"
+                        },
+                        {
+                            "k": [
+                                "Bauble",
+                                "Component.RenderMeshVisual1"
+                            ],
+                            "v": "1673129016515558:72673"
+                        },
+                        {
+                            "k": [
+                                "Candy Cane"
+                            ],
+                            "v": "1673129016516863:72689"
+                        },
+                        {
+                            "k": [
+                                "Candy Cane",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1673129016517102:72691"
+                        },
+                        {
+                            "k": [
+                                "Candy Cane",
+                                "Component.RenderMeshVisual1"
+                            ],
+                            "v": "1673129016517893:72702"
+                        },
+                        {
+                            "k": [
+                                "Gift Box"
+                            ],
+                            "v": "1673129016513352:72644"
+                        },
+                        {
+                            "k": [
+                                "Gift Box",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1673129016513531:72646"
+                        },
+                        {
+                            "k": [
+                                "Gift Box",
+                                "Component.RenderMeshVisual1"
+                            ],
+                            "v": "1673129016514161:72657"
+                        },
+                        {
+                            "k": [
+                                "Star"
+                            ],
+                            "v": "1673129016516072:72676"
+                        },
+                        {
+                            "k": [
+                                "Star",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1673129016516261:72678"
+                        },
+                        {
+                            "k": [
+                                "Tree"
+                            ],
+                            "v": "1673129016511603:72628"
+                        },
+                        {
+                            "k": [
+                                "Tree",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1673129016511887:72630"
+                        },
+                        {
+                            "k": [
+                                "Tree",
+                                "Component.RenderMeshVisual1"
+                            ],
+                            "v": "1673129016512787:72641"
+                        }
+                    ]
+                },
+                {
+                    "k": "1673129036403546:76176",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1673129036394350:76095"
+                        },
+                        {
+                            "k": [
+                                "Bauble"
+                            ],
+                            "v": "1673129036398920:76129"
+                        },
+                        {
+                            "k": [
+                                "Bauble",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1673129036399150:76131"
+                        },
+                        {
+                            "k": [
+                                "Bauble",
+                                "Component.RenderMeshVisual1"
+                            ],
+                            "v": "1673129036399888:76142"
+                        },
+                        {
+                            "k": [
+                                "Candy Cane"
+                            ],
+                            "v": "1673129036401372:76160"
+                        },
+                        {
+                            "k": [
+                                "Candy Cane",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1673129036401603:76162"
+                        },
+                        {
+                            "k": [
+                                "Candy Cane",
+                                "Component.RenderMeshVisual1"
+                            ],
+                            "v": "1673129036402531:76173"
+                        },
+                        {
+                            "k": [
+                                "Gift Box"
+                            ],
+                            "v": "1673129036397312:76113"
+                        },
+                        {
+                            "k": [
+                                "Gift Box",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1673129036397510:76115"
+                        },
+                        {
+                            "k": [
+                                "Gift Box",
+                                "Component.RenderMeshVisual1"
+                            ],
+                            "v": "1673129036398146:76126"
+                        },
+                        {
+                            "k": [
+                                "Star"
+                            ],
+                            "v": "1673129036400454:76145"
+                        },
+                        {
+                            "k": [
+                                "Star",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1673129036400680:76149"
+                        },
+                        {
+                            "k": [
+                                "Tree"
+                            ],
+                            "v": "1673129036395878:76097"
+                        },
+                        {
+                            "k": [
+                                "Tree",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1673129036396093:76099"
+                        },
+                        {
+                            "k": [
+                                "Tree",
+                                "Component.RenderMeshVisual1"
+                            ],
+                            "v": "1673129036396815:76110"
+                        }
+                    ]
+                }
+            ]
+        },
+        "ObjectTracking3DController": {
+            "hand_tracking_mode": "0"
+        },
+        "Compression::IController": {
+            "new_compression_info": [
+                {
+                    "k": "1673129015240109:72298",
+                    "v": {
+                        "infos": {
+                            "originalSize": "18668",
+                            "compressedSize": "18668",
+                            "originalRAM": "37266",
+                            "compressedRAM": "37266",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "32",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1673129015259802:72308",
+                    "v": {
+                        "infos": {
+                            "originalSize": "3332",
+                            "compressedSize": "3332",
+                            "originalRAM": "7476",
+                            "compressedRAM": "7476",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "33",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1673129015278157:72316",
+                    "v": {
+                        "infos": {
+                            "originalSize": "4885",
+                            "compressedSize": "4885",
+                            "originalRAM": "9864",
+                            "compressedRAM": "9864",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "34",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1673129015296624:72326",
+                    "v": {
+                        "infos": {
+                            "originalSize": "41822",
+                            "compressedSize": "41822",
+                            "originalRAM": "67470",
+                            "compressedRAM": "67470",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "35",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1673129015315249:72336",
+                    "v": {
+                        "infos": {
+                            "originalSize": "17911",
+                            "compressedSize": "17911",
+                            "originalRAM": "32592",
+                            "compressedRAM": "32592",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "36",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1673129015334012:72344",
+                    "v": {
+                        "infos": {
+                            "originalSize": "7134",
+                            "compressedSize": "7134",
+                            "originalRAM": "16932",
+                            "compressedRAM": "16932",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "37",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1673129015352307:72354",
+                    "v": {
+                        "infos": {
+                            "originalSize": "5599",
+                            "compressedSize": "5599",
+                            "originalRAM": "6528",
+                            "compressedRAM": "6528",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "38",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1673129015370722:72362",
+                    "v": {
+                        "infos": {
+                            "originalSize": "8890",
+                            "compressedSize": "8890",
+                            "originalRAM": "15732",
+                            "compressedRAM": "15732",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "color",
+                                            "format": "3",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "39",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1673129015389565:72372",
+                    "v": {
+                        "infos": {
+                            "originalSize": "8640",
+                            "compressedSize": "8640",
+                            "originalRAM": "15060",
+                            "compressedRAM": "15060",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "color",
+                                            "format": "3",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "40",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1673129015643223:72429",
+                    "v": {
+                        "infos": {
+                            "originalSize": "4052",
+                            "compressedSize": "219",
+                            "originalRAM": "262144",
+                            "compressedRAM": "32768",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "21",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "5167f791115e0d7d62e5103740694a36",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "41"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1673129035173110:75771",
+                    "v": {
+                        "infos": {
+                            "originalSize": "18668",
+                            "compressedSize": "18668",
+                            "originalRAM": "37266",
+                            "compressedRAM": "37266",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "66",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1673129035192457:75781",
+                    "v": {
+                        "infos": {
+                            "originalSize": "3332",
+                            "compressedSize": "3332",
+                            "originalRAM": "7476",
+                            "compressedRAM": "7476",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "67",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1673129035211749:75789",
+                    "v": {
+                        "infos": {
+                            "originalSize": "4885",
+                            "compressedSize": "4885",
+                            "originalRAM": "9864",
+                            "compressedRAM": "9864",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "68",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1673129035231547:75799",
+                    "v": {
+                        "infos": {
+                            "originalSize": "41822",
+                            "compressedSize": "41822",
+                            "originalRAM": "67470",
+                            "compressedRAM": "67470",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "69",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1673129035250222:75809",
+                    "v": {
+                        "infos": {
+                            "originalSize": "17911",
+                            "compressedSize": "17911",
+                            "originalRAM": "32592",
+                            "compressedRAM": "32592",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "70",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1673129035268907:75817",
+                    "v": {
+                        "infos": {
+                            "originalSize": "7134",
+                            "compressedSize": "7134",
+                            "originalRAM": "16932",
+                            "compressedRAM": "16932",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "71",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1673129035287097:75827",
+                    "v": {
+                        "infos": {
+                            "originalSize": "5599",
+                            "compressedSize": "5599",
+                            "originalRAM": "6528",
+                            "compressedRAM": "6528",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "72",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1673129035305269:75835",
+                    "v": {
+                        "infos": {
+                            "originalSize": "8890",
+                            "compressedSize": "8890",
+                            "originalRAM": "15732",
+                            "compressedRAM": "15732",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "color",
+                                            "format": "3",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "73",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1673129035323728:75845",
+                    "v": {
+                        "infos": {
+                            "originalSize": "8640",
+                            "compressedSize": "8640",
+                            "originalRAM": "15060",
+                            "compressedRAM": "15060",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "color",
+                                            "format": "3",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "74",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1673129035520094:75898",
+                    "v": {
+                        "infos": {
+                            "originalSize": "4052",
+                            "compressedSize": "219",
+                            "originalRAM": "262144",
+                            "compressedRAM": "32768",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "55",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "5167f791115e0d7d62e5103740694a36",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "75"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "AssetImportController": {
+            "itemUidToID": ""
+        },
+        "DigitalGoodsController": {
+            "digital_goods": ""
+        }
+    },
+    "templateName": "Empty Project",
+    "templateUrl": "Lens Studio version 4.36.1"
+}
