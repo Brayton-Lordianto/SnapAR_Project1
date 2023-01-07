@@ -3,7 +3,7 @@
     "document_id": "AsDoDgA7bE7dHQyeNd1Y",
     "original_document_id": "AsDoDgA7bE7dHQyeNd1Y",
     "version": "29",
-    "lastChanged": "1673129194945",
+    "lastChanged": "1673130190893",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -808,8 +808,7 @@
                 "0": "1517446348227994:84813",
                 "1": "1517446348228144:84822",
                 "2": "1528843813151434:5126",
-                "3": "1673129173612366:86694",
-                "4": "1673129176919128:87182"
+                "3": "1673129173612366:86694"
             }
         },
         "LayerComponent": {
@@ -2530,11 +2529,7 @@
             }
         },
         "InspectorController": {
-            "selection": {
-                "objects": [
-                    "1673129176919128:87182"
-                ]
-            }
+            "selection": ""
         },
         "EffectsController": {
             "1": "",
